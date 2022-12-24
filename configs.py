@@ -5,17 +5,17 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.getenv("API_ID", "12124605"))
-    API_HASH = os.getenv("API_HASH", "5cf3577d85fd02286535ec2296934287")
-    BOT_TOKEN = os.getenv("BOT_TOKEN", "5660564414:AAE2Hem9t5uouIXHlMMV6Rq-D8A8L1k5ku8")
-    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "mdiskcynitebot")
-    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "String")
-    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001558716347")) 
-    BOT_USERNAME = os.getenv("BOT_USERNAME", "cynitemdiskbot")
-    BOT_OWNER = int(os.getenv("BOT_OWNER", "1883570185"))
-#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "cyniteSupport")
-    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "cynitebackup")
-#    GROUP_USERNAME = os.getenv("GROUP_USERNAME")
+    API_ID = int(os.getenv("API_ID", "15072632"))
+    API_HASH = os.getenv("API_HASH", "ca639f129f27f59f7a1045b59e3d7468")
+    BOT_TOKEN = os.getenv("BOT_TOKEN", "5885240257:AAHI9jg6ttveOqLRjdc7I2pew_POerLbTk0")
+    BOT_SESSION_NAME = os.getenv("BOT_SESSION_NAME", "Gorumdisklinksbot")
+    USER_SESSION_STRING = os.getenv("USER_SESSION_STRING", "1BVtsOLMBu5toVjrGEII1tlsHkXQL1CoF518dkh0GAxsv7QQgOGWb21JLyYIA_8_8vI-MNENmFJPDFECOt_nD4FPgsX6WDq2iUMnWYk57eDG5BdXOTeAPHwxjUk7Lc0eIbONhPDbdXIIlDh67eTl4Qt79BD4ppwmKOferGHANpVzNLkEwK0II5V8oN_o-QVdKBY229puaN1yGa_wRs0aIDCsydiyKfqkv0CKFq1ITbx1zjwjI94qGi5bzJI1JBy73LNrJ27hkKh8okCRCIjo4204s-R7rbwXOjzaK4UeO5deeGB_PM8XPrNbxpCIb_a8IAfBTLFbXJfsZb40ZbCYz658C0xz3axs=")
+    CHANNEL_ID = int(os.getenv("CHANNEL_ID", "-1001779312100")) 
+    BOT_USERNAME = os.getenv("BOT_USERNAME", "Gorumdisklinks")
+    BOT_OWNER = int(os.getenv("BOT_OWNER", "560072848"))
+#    OWNER_USERNAME = os.getenv("OWNER_USERNAME", "sharmaofficial143")
+    BACKUP_CHANNEL = os.getenv("BACKUP_CHANNEL", "mxplayerfreemovies")
+#    GROUP_USERNAME = os.getenv("Goru Movie Zone")
     START_MSG = os.getenv("START_MSG", """**Hᴇʏ {}, 
 
 I ᴀᴍ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Rᴏʙᴏᴛ 🔍.
@@ -29,12 +29,12 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴛʜᴇʀᴇ ʏᴏᴜʀ ʟɪɴᴋꜱ.
 
 ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ ᴄʟɪᴄᴋ ᴏɴ ʜᴇʟᴘ ✅""" )
-    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001249072794")
-    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://postbot:postbot@cluster0.ouwne8q.mongodb.net/?retryWrites=true&w=majority")
-    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001796458234"))
+    UPDATES_CHANNEL = os.getenv("UPDATES_CHANNEL", "-1001655479466")
+    DATABASE_URL = os.getenv("DATABASE_URL", "mongodb+srv://Mdiskbot:Gourav125@cluster0.wxgbxex.mongodb.net/?retryWrites=true&w=majority")
+    LOG_CHANNEL = int(os.getenv("LOG_CHANNEL", "-1001891929509"))
     RESULTS_COUNT = int(os.getenv("RESULTS_COUNT", 20))
     BROADCAST_AS_COPY = os.getenv("BROADCAST_AS_COPY", "True")
-    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "cynitebackup")
+    UPDATES_CHANNEL_USERNAME = os.getenv("UPDATES_CHANNEL_USERNAME", "mxplayerfreemovies")
     FORCE_SUB = os.getenv("FORCE_SUB", "False")
     AUTO_DELETE_TIME = int(os.getenv("AUTO_DELETE_TIME", 180))
     MDISK_API = os.getenv("MDISK_API", "Qu7jX9V0Sn3q1JHdxjPp")
@@ -45,7 +45,7 @@ Jᴜsᴛ Tʏᴘᴇ ᴀ Mᴏᴠɪᴇ Nᴀᴍᴇ 🎬**""" )
 
 i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ.
 
-ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @CyniteSupport 🤖""" )
+ᴅᴍ ꜰᴏʀ ᴀɴʏ Qᴜᴇʀʏ @sharmaofficial143 🤖""" )
     ABOUT_WATCH_TEXT = """
 ʜᴇʏ ʙᴜᴅᴅʏ, 
 
@@ -54,7 +54,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 
 ᴛᴇʀᴀ ʙᴏx - ᴀɢᴀʀ ᴀᴘᴘᴋᴏ ɴᴀʜɪ ᴘᴀᴛᴀ ᴋɪ ᴛᴇʀᴀʙᴏx sᴇ ᴍᴏᴠɪᴇs ᴋᴀɪsᴇ ᴅᴇᴋʜᴇ ᴛᴏ ɴɪᴄʜᴇ ᴅɪʏᴇ ɢᴀʏᴇ ᴛᴇʀᴀ ʙᴏx ʙᴜᴛᴛᴏɴ ᴘᴀʀ ᴄʟɪᴄᴋ ᴋᴀʀᴇ
 
-ʀᴇɢᴀʀᴅs - @CyniteBackup"""
+ʀᴇɢᴀʀᴅs - @mxplayerfreemovies"""
     ABOUT_MDISK_TEXT = """
 𝗠𝗱𝗶𝘀𝗸 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
 वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो Mx Player App डाउनलोड करले😊👍
@@ -70,20 +70,7 @@ i ɴᴏᴛ ꜱᴛᴏʀᴇ ᴀɴʏ ꜰɪʟᴇꜱ ᴏʀ ᴛᴇxᴛ ɪɴ  ᴍʏ ᴅ
 5) 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘒𝘢𝘳𝘯𝘦 𝘒𝘦 𝘓𝘪𝘺𝘦 𝘋𝘰𝘸𝘯𝘭𝘰𝘢𝘥 𝘉𝘶𝘵𝘵𝘰𝘯 𝘗𝘢𝘳 𝘊𝘭𝘪𝘤𝘬 𝘒𝘢𝘳𝘦 ⬇
 
 6)𝘕𝘢𝘩𝘪 𝘛𝘰 𝘈𝘱𝘱 𝘕𝘪𝘤𝘩𝘦 𝘋𝘪𝘺𝘦 𝘎𝘢𝘺𝘦 Watch Video 𝘗𝘢𝘳 𝘊𝘭𝘪𝘤𝘬 𝘒𝘢𝘳𝘬𝘦 𝘗𝘶𝘳𝘢 𝘚𝘵𝘦𝘱 𝘓𝘪𝘷𝘦 𝘗𝘩𝘰𝘵𝘰 𝘔𝘦 𝘋𝘦𝘬𝘩 𝘚𝘬𝘢𝘵𝘦 𝘏𝘢𝘪😇"""
-    ABOUT_TERABOX_TEXT = """
-𝗧𝗲𝗿𝗮𝗕𝗼𝘅 𝗸𝗶 𝗹𝗶𝗻𝗸𝘀 𝗢𝗽𝗲𝗻 𝗔𝗶𝘀𝗲 𝗞𝗮𝗿𝗲👇🔥
-वीडियो प्ले करने में कोई प्रोब्लम अ रही हो तो इक बार रजिस्ट्रेशन कर ले फिर आप बिना एड के विडियो अच्छे से चला पाएंगे थैंक्यू 😊👍
-
-https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
-
-1) 𝘛𝘦𝘳𝘢𝘣𝘰𝘹 𝘬𝘪 𝘭𝘪𝘯𝘬 𝘱𝘦𝘳 𝘤𝘭𝘪𝘤𝘬 𝘬𝘢𝘳𝘦 𝘶𝘴𝘬𝘦 𝘣𝘢𝘢𝘥 𝘢𝘪𝘴𝘢 𝘱𝘢𝘨𝘦 𝘬𝘩𝘶𝘭𝘦𝘨𝘢.
-
-2) 𝘜𝘱𝘱𝘢𝘳 𝘴𝘪𝘥𝘦 𝘭𝘰𝘨𝘪𝘯/𝘙𝘦𝘨𝘪𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘭𝘪𝘬𝘩𝘢 𝘩𝘰𝘨𝘢 𝘶𝘴𝘱𝘦 𝘤𝘭𝘪𝘤𝘬 𝘬𝘢𝘳𝘰.😉
-
-3) 𝘗𝘩𝘪𝘳 𝘳𝘦𝘨𝘪𝘴𝘵𝘳𝘢𝘵𝘪𝘰𝘯 𝘬𝘢𝘳𝘰 𝘢𝘶𝘳 𝘭𝘪𝘧𝘦 𝘵𝘪𝘮𝘦 𝘧𝘳𝘦𝘦 𝘷𝘪𝘥𝘦𝘰𝘴 𝘣𝘪𝘯𝘢 𝘈𝘥𝘴 𝘬𝘦 𝘥𝘦𝘬𝘩𝘰😍
-
-4) 𝘕𝘢𝘩𝘪 𝘛𝘰 𝘈𝘱𝘱 𝘕𝘪𝘤𝘩𝘦 𝘋𝘪𝘺𝘦 𝘎𝘢𝘺𝘦  𝘗𝘢𝘳 𝘊𝘭𝘪𝘤𝘬 𝘒𝘢𝘳𝘬𝘦 𝘗𝘶𝘳𝘢 𝘚𝘵𝘦𝘱 𝘓𝘪𝘷𝘦 𝘗𝘩𝘰𝘵𝘰 𝘔𝘦 𝘋𝘦𝘬𝘩 𝘚𝘬𝘢𝘵𝘦 𝘏𝘢𝘪😇"""
-
+   
     ABOUT_HELP_TEXT = """
 
 🍓 RᴇQᴜɪʀᴇᴍᴇɴᴛ ᴛᴏ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ!
@@ -108,7 +95,7 @@ https://terabox.com/s/1QZGvLaoU_VMaSCDT2NNvOQ
 
 ᴀɢᴀʀ ʙᴏᴛ ᴀᴅᴍɪɴ ᴀᴘᴋᴀ ʀᴇQᴜᴇꜱᴛ ᴀᴄᴄᴇᴘᴛ ɴʜɪ ᴋᴀʀ ʀᴀʜᴇ ʜᴀɪɴ ᴛᴏ ᴜɴʜᴇ ᴘᴇʀꜱᴏɴᴀʟ ᴍꜱɢ ᴋᴀʀᴇɴ.
 
-👉 @CyniteSupport
+👉 @sharmaofficial143
 
 """
 
